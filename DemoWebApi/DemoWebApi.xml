@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DemoWebApi</name>
+    </assembly>
+    <members>
+        <member name="M:DemoWebApi.Controllers.LessonController.Get(System.Int32)">
+            <summary>
+            Get Lesson By ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
